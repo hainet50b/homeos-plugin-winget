@@ -1,5 +1,7 @@
 # homeos-plugin-winget
 
+![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
+
 A [homeos](https://github.com/hainet50b/homeos) plugin for [winget](https://github.com/microsoft/winget-cli), the Windows Package Manager.
 
 ## Usage
